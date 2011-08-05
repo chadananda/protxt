@@ -1,0 +1,6 @@
+name = Protxt
+description = Protects text from content theives. Slightly rewrites node text (but does not change meaning) then fixes text visually with JavaScript 
+package = "* KOC"
+core = 6.x
+ 
+
